@@ -544,5 +544,7 @@ For issues or questions:
 
 ## License
 
-This stored procedure is part of the Snowflake Cortex Agent Migration toolkit.
+Provided **as-is** without any warranty or guarantee.  
+Refer to the official Snowflake documentation for the latest updates.
+
 
